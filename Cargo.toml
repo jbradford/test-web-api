@@ -1,0 +1,6 @@
+[package]
+name = "test-web-api"
+version = "0.1.0"
+authors = ["Jon Bradford <548416+jbradford@users.noreply.github.com>"]
+
+[dependencies]
